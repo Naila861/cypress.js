@@ -41,7 +41,7 @@
 7. Выбрать спеку lesson_locators
 
 Ожидаемый результат: получим отчет о прохождении тестов.
-![image]()
+![image](https://github.com/Naila861/cypress.js/blob/main/Cypress_UI.png)
 
 
 ## Автор
