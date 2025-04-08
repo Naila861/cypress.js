@@ -46,4 +46,4 @@
 
 ## Автор
 
-Наиля Габдрахманова (https://nailagabdrakhmanova@yandex.ru)
+Наиля Габдрахманова([[@gnnnn14](https://t.me/gnnnn14)])
