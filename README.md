@@ -19,15 +19,15 @@
 ## Детали реализации
 
 1. baseUrl вынесен в переменные конфига
-https://github.com/Naila861/cypress.js/blob/main/baseUrl.png
+![image](https://github.com/Naila861/cypress.js/blob/main/baseUrl.png)
 
-2. Применение хуков beforeEach и afterEach
+3. Применение хуков beforeEach и afterEach
 https://github.com/Naila861/cypress.js/blob/main/hooks.png
 
-3. Переменные данные для авторизации вынесены в отдельный файл
+4. Переменные данные для авторизации вынесены в отдельный файл
 https://github.com/Naila861/cypress.js/blob/main/user_data.png
 
-4. Каждая страница описана в формате объекта с локаторами
+5. Каждая страница описана в формате объекта с локаторами
 https://github.com/Naila861/cypress.js/blob/main/locators.png
 
 
